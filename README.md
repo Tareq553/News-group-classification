@@ -28,3 +28,19 @@ The following technologies and libraries are used in this project:
 
 - **Matplotlib**: For data visualization.
 
+## Future Work
+
+Experiment with additional categories to broaden the classification scope.
+
+Try advanced vectorization techniques like **Word2Vec or BERT embeddings**.
+
+Optimize model parameters for better accuracy.
+
+## License
+
+This project is open-source and available under the MIT License.
+
+## Authors
+
+- [M Tareq Rahman](https://github.com/Tareq553)
+
