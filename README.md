@@ -28,6 +28,10 @@ The following technologies and libraries are used in this project:
 
 - **Matplotlib**: For data visualization.
 
+## Dataset Description
+
+The 20 Newsgroups dataset is a collection of approximately 20,000 newsgroup documents, partitioned into 20 different categories. [Here](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) is the data source.
+
 ## Future Work
 
 Experiment with additional categories to broaden the classification scope.
